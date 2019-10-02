@@ -17,7 +17,3 @@ To run the executable
 
 in Ubuntu  - ./sll.exe then Enter
 in Windows - sll.exe then Enter
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details

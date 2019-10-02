@@ -6,14 +6,15 @@ This is the very basic stage of Linked lists. Linked lists is a very attractive 
 ## About the source
 
 This source is just to understand linked lists. I have used gcc version 6.3.0 c++14 compiler but this program can be compiled and run in any lower versions for sure. 
-```sh
+
+
 You can use below command to compile the source in both Ubuntu and Windows environments.
-```sh
+
 g++ SinglyLinkedList.cpp -o sll.exe
-```sh
-```sh
+
+
 To run the executable
-```sh
+
 in Ubuntu  - ./sll.exe then Enter
 in Windows - sll.exe then Enter
 
